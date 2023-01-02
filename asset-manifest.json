@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/peter-rosen/static/js/main.7278dd84.js",
+    "static/js/787.08f6a2a3.chunk.js": "/peter-rosen/static/js/787.08f6a2a3.chunk.js",
+    "static/media/coaching-charts.jpg": "/peter-rosen/static/media/coaching-charts.68f530fddee08d0da567.jpg",
+    "static/media/progression.jpg": "/peter-rosen/static/media/progression.cf4daf324f84dbaa0009.jpg",
+    "static/media/businessman.jpg": "/peter-rosen/static/media/businessman.091fd0079868b36abece.jpg",
+    "static/media/graduation.jpg": "/peter-rosen/static/media/graduation.2126583e3802949157e9.jpg",
+    "static/media/Jamie.jpg": "/peter-rosen/static/media/Jamie.b7b6fff281abd7fd0c15.jpg",
+    "static/media/peter-logo-no-bg.png": "/peter-rosen/static/media/peter-logo-no-bg.79be773c1f2ae6578a46.png",
+    "index.html": "/peter-rosen/index.html",
+    "main.7278dd84.js.map": "/peter-rosen/static/js/main.7278dd84.js.map",
+    "787.08f6a2a3.chunk.js.map": "/peter-rosen/static/js/787.08f6a2a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7278dd84.js"
+  ]
+}
