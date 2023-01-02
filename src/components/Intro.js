@@ -1,14 +1,12 @@
 
 
 export default function Intro () {
-    return (
+    return 
 
-        <div>
-            Test
-            </div>
+  
 
 
     
 
-    )
+    
 }
